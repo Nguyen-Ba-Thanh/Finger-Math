@@ -108,20 +108,20 @@ finger_math_cv/
 - Ứng dụng chỉ cấu hình nhận diện tối đa hai bàn tay.
 - Việc phân loại tay trái/phải dựa trên vị trí bàn tay ở nửa trái hoặc nửa phải của khung hình.
 - Phạm vi phép tính được thiết kế để biểu diễn bằng tối đa 10 ngón tay.
-Future Improvements
 
-Một số hướng phát triển trong tương lai:
 
-Thêm phép nhân và phép chia.
-Thêm nhiều mức độ khó.
-Tăng độ khó theo điểm số.
-Thêm giới hạn thời gian cho mỗi câu hỏi.
-Thêm âm thanh.
-Lưu lịch sử điểm.
-Thêm màn hình tổng kết sau mỗi lượt chơi.
-Cải thiện giao diện người dùng.
-Cải thiện độ chính xác của finger counting.
-Author
+## Một số hướng phát triển trong tương lai
+
+- Thêm phép nhân và phép chia.
+- Thêm nhiều mức độ khó.
+- Tăng độ khó theo điểm số.
+- Thêm giới hạn thời gian cho mỗi câu hỏi.
+- Thêm âm thanh.
+- Lưu lịch sử điểm.
+- Thêm màn hình tổng kết sau mỗi lượt chơi.
+- Cải thiện giao diện người dùng.
+- Cải thiện độ chính xác của finger counting.
+## Author
 
 Thành Bá
 
